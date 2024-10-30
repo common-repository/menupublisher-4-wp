@@ -1,0 +1,311 @@
+# Copyright (C) 2016 MenuPublisher 4 WP
+# This file is distributed under the same license as the MenuPublisher 4 WP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MenuPublisher 4 WP 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/menupublisher-4-wp\n"
+"POT-Creation-Date: 2016-11-07 10:58:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: assets/templates/menupublisher-4-wp-settings.php:12
+msgid "%s options"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:24
+msgid "You do not have permissions"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:86
+msgid "You must enter a RestaurantCode"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:100
+msgid "RestaurantCode cannot be validated currently, since the Server seems to be down. Try again later."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:102
+msgid "RestaurantCode is invalid, please get the correct RestaurantCode from your MenuPublisher backend."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:136
+msgid "You must enter a unique snippet name."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:138
+msgid "You may only use numbers, upper and lower case letters (a-zA-Z), underscore \"_\" and minus \"-\" for snippet name."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:151
+msgid "This snippet name is already used, choose another one"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:214
+msgid "back"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:217
+msgid "Snippet setup"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:223
+#: assets/templates/menupublisher-4-wp-settings.php:393
+msgid "Settings saved."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:228
+#: assets/templates/menupublisher-4-wp-settings.php:398
+msgid "Dismiss this notice."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:238
+msgid "Snippet name:"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:256
+msgid "Must be unique among all snippets."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:264
+msgid "Layout:"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:278
+msgid "one column"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:291
+msgid "two columns"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:298
+msgid "Lunch card:"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:313
+msgid "Show lunch dishes"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:325
+msgid "show whole week"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:329
+msgid "if you unselect whole week, then only dishes from today till sunday will be displayed"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:336
+msgid "Menu (à la carte):"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:348
+msgid "Show à la carte dishes"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:359
+#: assets/templates/menupublisher-4-wp-settings.php:506
+msgid "save"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:385
+msgid "%s setup"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:408
+msgid "RestaurantCode:"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:422
+msgid "You can find this in your MenuPublisher backend, navigate there to DISTRIBUTION => HOMEPAGE and search for <b>RestaurantCode</b>"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:437
+msgid "Powered info:"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:449
+msgid "Show powered info"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:463
+msgid "2-columns layout"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:465
+msgid "1-column layout"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:469
+msgid "shows lunch dishes"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:471
+msgid "of whole week "
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:476
+msgid "shows à la carte dishes"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:486
+msgid "edit"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-settings.php:501
+msgid "+add code snippet"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:6
+msgid "<div style=\"color: red;\">You may only use %s once on a page</div>"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:26
+#: assets/templates/menupublisher-4-wp-startcode.php:52
+msgid "Please setup %s <a href=\"%s\">here</a> before using this shortcode."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:123
+msgid "Here you have the possibility to exclude dishes that contain specific "
+"allergens or additives. If you wish to hide a menu with a certain allergen, "
+"then simply uncheck the corresponding checkbox. The same applies to "
+"additives."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:124
+msgid "Additives"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:125
+msgid "Additives and allergens"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:126
+msgid "Allergens"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:127
+msgid "&gg; download card as PDF "
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:128
+msgid "from"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:129
+msgid "Lunch"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:130
+msgid "Menu"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:131
+msgid "Currently the restaurant has no menu setup, try again later."
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:132
+msgid "or"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:135
+msgid "Monday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:136
+msgid "Tuesday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:137
+msgid "Wednesday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:138
+msgid "Thursday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:139
+msgid "Friday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:140
+msgid "Saturday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:141
+msgid "Sunday"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:144
+msgid "January"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:145
+msgid "February"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:146
+msgid "March"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:147
+msgid "April"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:148
+msgid "May"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:149
+msgid "June"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:150
+msgid "July"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:151
+msgid "August"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:152
+msgid "September"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:153
+msgid "October"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:154
+msgid "November"
+msgstr ""
+
+#: assets/templates/menupublisher-4-wp-startcode.php:155
+msgid "December"
+msgstr ""
+
+#: menupublisher-4-wp.php:68
+msgid "Insert InlineCode"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "MenuPublisher 4 WP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.menupublisher.de/index.php?page=wp_plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin renders lunch or menus from a restaurant on MenuPublisher.de directly on your website"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Medienmacher GmbH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://medienmacher.de/"
+msgstr ""
